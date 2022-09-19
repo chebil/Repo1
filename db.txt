@@ -1,1 +1,2 @@
 create table
+update on table std
